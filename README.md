@@ -1,1 +1,1 @@
-
+Projekt ne Sisteme Shfrytezimi/Operimi. Synimi kryesor eshte automatizimi i politikave te sigurise per perdoruesit ne sistemet Linux. Scripti i krijuar ndihmon administratoret e sistemit te zbatojne rregulla strikte per fjalekalimet. duke rritur sigurine.
